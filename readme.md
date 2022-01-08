@@ -8,7 +8,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="julianooselame | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="julianooselame | Quora" width="22px" src="https://icon-library.com/images/img_426324.png" />][quora]
+
+
 
 <br />
 
@@ -36,4 +39,5 @@
 
 
 [linkedin]: https://www.linkedin.com/in/juliano-oselame
+[quora]: https://www.quora.com/profile/Juliano-Oselame-1
 
