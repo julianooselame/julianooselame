@@ -3,7 +3,7 @@
 ## I am an aspiring, self-taught Web Developer
 
 - 🌱 I’m currently learning JavaScript, CSS and HTML
-- 🥅 2022 Goals: Start a career as a Web Developer
+- 🥅 2023 Goals: Start a career as a Web Developer
 - ⚡ Fun fact: I love learning languages as a hobby!
 
 ### Connect with me:
